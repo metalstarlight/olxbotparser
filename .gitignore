@@ -1,4 +1,5 @@
-/help
 /.vscode
-/selenium/.vscode
+/help
 /selenium/Lib
+/selenium/.vscode
+/selenium/Scripts
